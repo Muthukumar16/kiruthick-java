@@ -18,7 +18,7 @@ public class GamesProgram {
                     playTicTacToe();
                     break;
                 case 2:
-                    System.out.println("Step 1 - inside switch case");
+                    //System.out.println("Step 1 - inside switch case rock paper scissors");
                     playRockPaperScissors();
                     break;
                 case 0:
@@ -39,9 +39,9 @@ public class GamesProgram {
     }
 
     public static void playRockPaperScissors() {
-        System.out.println("Step 2 - before create RPS object");
+        //System.out.println("Step 2 - before create RPS object");
         RockPaperScissors rps = new RockPaperScissors();
-        System.out.println("Step 3 - before calling play method");
+        //System.out.println("Step 3 - before calling play method");
         rps.play();
     }
 }
@@ -177,7 +177,7 @@ class RockPaperScissors {
         Scanner scan = new Scanner(System.in);
 
         while (true) {
-            System.out.println("Step 4 - inside while loop");
+            //System.out.println("Step 4 - inside while loop");
             System.out.println("Enter your choice (rock, paper, scissors) or 'exit' to quit:");
             String userChoice = scan.nextLine().toLowerCase();
 
@@ -186,8 +186,8 @@ class RockPaperScissors {
                 break;
             }
 
-            System.out.println("Step 5 - before invalid choice condition");
-            System.out.println("Step 5b - user entered choice"+userChoice);
+            //System.out.println("Step 5 - before invalid choice condition");
+            //System.out.println("Step 5b - user entered choice: "+userChoice);
             
             if (!userChoice.equals(ROCK) && 
             !userChoice.equals(PAPER) && 
