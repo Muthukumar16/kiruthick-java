@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuDriven
+comment0.text=\r\n\ This\ program\ accepts\ an\ integer\ input\ from\ the\ user\ and\ checks\ whether\ it\ is\ a\ Harshad\ number\ or\ not.\r\n\ A\ Harshad\ number\ is\ a\ number\ that\ is\ divisible\ by\ the\ sum\ of\ its\ digits.\r\n
+comment1.params=num
+comment1.target=void\ verifyHarshadNumber(int)
+comment2.params=num
+comment2.target=void\ verifyPerfectNumber(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

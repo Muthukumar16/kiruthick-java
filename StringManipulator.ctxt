@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StringManipulator
+comment1.params=str\ ch
+comment1.target=void\ check(java.lang.String,\ char)
+comment2.params=s1
+comment2.target=void\ check(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

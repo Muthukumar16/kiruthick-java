@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SumCalculator
+comment0.text=\r\n\ This\ class\ provides\ overloaded\ methods\ to\ calculate\ sums\ and\ products.\r\n
+comment1.params=A\ B
+comment1.target=int\ Sum(int,\ int)
+comment1.text=\r\n\ Calculates\ the\ sum\ of\ even\ numbers\ in\ the\ range\ [A,\ B].\r\n\r\n\ @param\ A\ The\ starting\ integer\ value\ (inclusive).\r\n\ @param\ B\ The\ ending\ integer\ value\ (inclusive).\r\n\ @return\ The\ sum\ of\ even\ numbers\ in\ the\ range\ [A,\ B].\r\n
+comment2.params=N
+comment2.target=double\ Sum(double)
+comment2.text=\r\n\ Calculates\ the\ product\ of\ the\ series\ 1.0\ x\ 1.2\ x\ 1.4\ x\ ...\ x\ N.\r\n\r\n\ @param\ N\ The\ upper\ limit\ of\ the\ series.\r\n\ @return\ The\ product\ of\ the\ series.\r\n
+comment3.params=N
+comment3.target=int\ Sum(int)
+comment3.text=\r\n\ Calculates\ the\ sum\ of\ odd\ digits\ in\ an\ integer\ N.\r\n\r\n\ @param\ N\ The\ integer\ from\ which\ to\ calculate\ the\ sum\ of\ odd\ digits.\r\n\ @return\ The\ sum\ of\ odd\ digits\ in\ N.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method\ to\ create\ an\ object\ of\ the\ SumCalculator\ class\ and\ invoke\ the\ methods.\r\n
+numComments=5

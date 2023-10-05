@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ElectricBill
+comment0.text=\r\n\ The\ ElectricBill\ class\ represents\ an\ electric\ bill\ for\ a\ customer\r\n\ It\ stores\ the\ name\ of\ the\ customer,\ the\ number\ of\ units\ consumed\r\n\ The\ class\ provides\ method\ to\ accept\ customer\ details,\ calculate\r\n\ bill\ amount,\ and\ print\ the\ bill\ amount\r\n
+comment1.params=
+comment1.target=void\ accept()
+comment2.params=
+comment2.target=double\ calculate()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

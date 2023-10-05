@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DisariumNumber
+comment1.params=number
+comment1.target=int\ calculateDigitPowerSum(int)
+comment2.params=number
+comment2.target=boolean\ isDisariumNumber(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
