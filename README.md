@@ -6,7 +6,7 @@ This repository is a collection of small Java programs and exercises (console/Bl
 ## Scope
 - Catalog and describe the existing programs.
 - Explain how to build and run them locally (javac/java and BlueJ).
-- Describe typical runtime flows with Mermaid sequence diagrams (see SEQUENCE_DIAGRAMS.md).
+- Describe typical runtime flows with Mermaid sequence diagrams.
 - Recommendations for organizing, testing, and documenting the examples.
 
 ## Repository structure (root)
